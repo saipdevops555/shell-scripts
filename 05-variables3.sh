@@ -1,4 +1,4 @@
 #!/bin/bash
 DATE=$(date)
 
-echo " Todays date is $DATE" 
+echo " started executing on :  $DATE" 
